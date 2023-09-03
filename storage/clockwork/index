@@ -1,0 +1,6 @@
+1693752044-8380-1680434945,1693752044.7341,GET,/skybluetools/public/,"App\Http\Controllers\HomeController@home",200,384.91916656494,request
+1693752045-3971-978834009,1693752045.2645,GET,/skybluetools/public/search,"App\Http\Controllers\SearchController",200,336.49396896362,request
+1693752072-3297-2121742357,1693752072.2252,GET,/skybluetools/public/,"App\Http\Controllers\HomeController@home",200,354.20799255371,request
+1693752072-8513-1265737894,1693752072.7201,GET,/skybluetools/public/search,"App\Http\Controllers\SearchController",200,307.8830242157,request
+1693752079-5819-1223083035,1693752079.4649,GET,/skybluetools/public/case-converter,"App\Http\Controllers\ToolController@index",200,2623.8420009613,request
+1693752082-3067-1940775465,1693752082.1818,GET,/skybluetools/public/search,"App\Http\Controllers\SearchController",200,283.75291824341,request
